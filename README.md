@@ -1,7 +1,8 @@
 # Subscriptions-yt-dlp
-Bash script to regularly download new video from a list of channels 
+Bash script to regularly download new video from a list of channels using yt-dlp. 
 
 #!/bin/bash
+
 #Subscriptions.sh
 
 #Check for new videos every hour from channel list and download them.
