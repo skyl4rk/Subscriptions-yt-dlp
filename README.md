@@ -27,5 +27,5 @@ date >> /home/pi/cron/subscriptions_output.txt
 #7. Set up a scheduled action to run this script using crontab, modify the path and filename as in step 1.
 
 #8. $crontab -e
-# 0 * * * * bash /home/pi/cron/Subscriptions.sh
+## 0 * * * * bash /home/pi/cron/Subscriptions.sh
 
